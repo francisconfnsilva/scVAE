@@ -1,0 +1,19 @@
+# --- Data and Models ---
+data/
+models/*.pth
+results/*.csv
+results/*.png
+.dataset_path
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
